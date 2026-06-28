@@ -3,7 +3,7 @@
 Personal portfolio website built with HTML, CSS and JavaScript.
 
 ## 🔗 Live Website
-https://HadiaMasroor.github.io/portfolio
+https://hadiamasroor-21.github.io/My-Portfolio/
 
 ## 📌 Sections
 - About Me
